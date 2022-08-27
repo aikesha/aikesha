@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### 🖥️ &nbsp; Technologies and Skills
 
 <p align="center">
-
+<br>
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
