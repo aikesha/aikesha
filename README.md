@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="morty.PNG" alt="morty" style="width: 600px;"/>
+<img src="morty.PNG" alt="morty" style="width: 800px;"/>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=afc163.afc163)
