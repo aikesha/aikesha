@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 
-### 🖥️ Technologies and Skills
+### 🖥️ &nbsp; Technologies and Skills
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
 
-### 🌟⚡🔥 Motto
+### ⚡ &nbsp; Motto
 
 > You don't have to be great to start, but you have to start to be great. – Zig Ziglar
 
