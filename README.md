@@ -1,5 +1,3 @@
-
-
 <!--
 **aikesha/aikesha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,10 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![](https://visitor-badge.glitch.me/badge?page_id=afc163.afc163)
-
-
 <h4 align="center"><samp> Hi there 👋 welcome to my Github! I'm a Robotics student, Open Source Contributor, and ML and DL Enthusiast 🐍  </samp></h4>
 
 <p align="center">
@@ -29,3 +23,25 @@ Here are some ideas to get you started:
 Check out my repos ⬇️  
   </samp>
 </p>
+
+#### TECH STACK
+
+PHP / MYSQL / JS / HTML / CSS / GITHUB / REST API / ..
+
+##### MOTTO
+
+> You don't have to be great to start, but you have to start to be great. – Zig Ziglar
+> The expert in anything was once a beginner. — Helen Hayes
+
+####
+
+
+<a href="https://www.instagram.com/arturssmirnovs/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
+
+<a href="https://www.linkedin.com/in/art%C5%ABrs-smirnovs-b6399275/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
+<!--
+<a href="https://github.com/arturssmirnovs" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
+<a href="https://arturio.dev/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
+-->
+
+![](https://komarev.com/ghpvc/?username=aikesha&color=green)
