@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="morty.PNG" alt="morty" style="width: 600px;"/>
+
+![](https://visitor-badge.glitch.me/badge?page_id=afc163.afc163)
