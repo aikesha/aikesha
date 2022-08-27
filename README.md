@@ -42,4 +42,11 @@ PHP / MYSQL / JS / HTML / CSS / GITHUB / REST API / ..
 <a href="https://arturio.dev/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
 -->
 
+<p align="center">
+  <a href="https://github.com/aikesha">
+    <img align="left" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aikesha&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img align="right" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aikesha&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
 ![](https://komarev.com/ghpvc/?username=aikesha&color=green)
