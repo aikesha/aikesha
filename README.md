@@ -20,12 +20,9 @@ Here are some ideas to get you started:
   <img src="morty.PNG" alt="morty" style="width: 500px;"/>
 </p>
 
-<p align="center"><samp>
-Check out my repos ⬇️  
-  </samp>
-</p>
 
-## 🖥️ Technologies and Skills
+
+### 🖥️ Technologies and Skills
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -37,11 +34,11 @@ Check out my repos ⬇️
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
 
-## MOTTO
+### MOTTO
 
 > You don't have to be great to start, but you have to start to be great. – Zig Ziglar
 
-## 📫 &nbsp; How to reach me:
+### 📫 &nbsp; How to reach me:
 
 <p align="center">
 <br>
@@ -53,7 +50,7 @@ Check out my repos ⬇️
 <!--
 <a href="https://github.com/aikesha" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
 <a href="https://arturio.dev/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
--->
+
 
 <p align="center">
   <a href="https://github.com/aikesha">
@@ -62,3 +59,8 @@ Check out my repos ⬇️
   </a>
 </p>
 
+-->
+<p align="center"><samp>
+Check out my repos ⬇️  
+  </samp>
+</p>
