@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **aikesha/aikesha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +18,15 @@ Here are some ideas to get you started:
 <img src="morty.PNG" alt="morty" style="width: 600px;"/>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=afc163.afc163)
+
+
+<h4 align="center"><samp> Hi there 👋 welcome to my Github! I'm a Robotics student, Open Source Contributor, and ML and DL Enthusiast 🐍  </samp></h4>
+
+<p align="center">
+  <img src="morty.PNG" alt="morty" style="width: 600px;"/>
+</p>
+
+<p align="center"><samp>
+Check out my repos ⬇️  
+  </samp>
+</p>
