@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://komarev.com/ghpvc/?username=aikesha&color=green)
+
+
 <h4 align="center"><samp> Hi there 👋 welcome to my Github! I'm a Robotics student, Open Source Contributor, and ML and DL Enthusiast 🐍  </samp></h4>
 
 <p align="center">
@@ -24,15 +27,15 @@ Check out my repos ⬇️
   </samp>
 </p>
 
-#### TECH STACK
+## 🖥️ Technologies and Skills
 
 PHP / MYSQL / JS / HTML / CSS / GITHUB / REST API / ..
 
-##### MOTTO
+## MOTTO
 
 > You don't have to be great to start, but you have to start to be great. – Zig Ziglar
 
-####
+##
 
 <a href="https://www.instagram.com/aikesha.ka/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
 <a href="https://www.linkedin.com/in/aigerim-keutayeva/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
@@ -49,4 +52,3 @@ PHP / MYSQL / JS / HTML / CSS / GITHUB / REST API / ..
   </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=aikesha&color=green)
