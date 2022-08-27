@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h4 align="center"><samp> Hi there 👋 welcome to my Github! I'm a Robotics student, Open Source Contributor, and ML and DL Enthusiast 🐍  </samp></h4>
 
 <p align="center">
-  <img src="rick.PNG" alt="morty" style="width: 600px;"/>
+  <img src="morty.PNG" alt="morty" style="width: 500px;"/>
 </p>
 
 <p align="center"><samp>
