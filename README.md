@@ -36,7 +36,6 @@ Check out my repos ⬇️
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
-![MatLab](https://img.shields.io/badge/matlab%20-%23150458.svg?&style=flat&logo=matlab&logoColor=white)&nbsp;
 
 ## MOTTO
 
