@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=aikesha&color=green)
 
 
-<h4 align="center"><samp> Hi there 👋 welcome to my Github! I'm a Robotics student, Open Source Contributor, and ML and DL Enthusiast 🐍  </samp></h4>
+<h4 align="center"><samp> Hi there 👋 welcome to my Github! I'm a Robotics student, Open Source Contributor, and an AI Enthusiast 🐍  </samp></h4>
 
 <p align="center">
   <img src="morty.PNG" alt="morty" style="width: 500px;"/>
